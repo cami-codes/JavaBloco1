@@ -3,7 +3,7 @@ package PrimeirosExercicios;
 import java.util.Scanner;
 
 public class Exer02 {
-// Faça um programa que entre com três números e coloque em ordem crescente.
+// 2- Faça um programa que entre com três números e coloque em ordem crescente.
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
