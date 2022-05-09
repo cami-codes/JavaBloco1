@@ -21,7 +21,7 @@ final imprimir a média dos números múltiplos de 3. Para sair digitar
 				cont++;
 			}
 			
-		} while (num > 0);
+		} while (num != 0);
 		System.out.println("A média dos valores multiplos de 3 digitados é de: " + soma / cont);
 		
 		scan.close();
