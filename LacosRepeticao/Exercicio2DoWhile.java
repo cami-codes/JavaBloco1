@@ -3,7 +3,7 @@ package LacosRepeticao;
 import java.util.Scanner;
 
 public class Exercicio2DoWhile {
-/* Escrever um programa que receba vários números inteiros no teclado. E no
+/* 2- Escrever um programa que receba vários números inteiros no teclado. E no
 final imprimir a média dos números múltiplos de 3. Para sair digitar
 0(zero).(DO...WHILE)
  */
